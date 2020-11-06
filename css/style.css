@@ -1,0 +1,22 @@
+.navbar {
+    background: #5a5ae0;
+    height: 4rem;
+    width: 100%;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+ul li {
+    float: right;
+}
+
+.logo {
+    
+}
